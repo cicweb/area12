@@ -1,5 +1,7 @@
 {
-  "name": "single-html",
+  "name": "area12",
   "compatibility_date": "2025-12-27",
-  "main": "src/index.ts"
+  "assets": {
+    "directory": "./site"
+  }
 }
