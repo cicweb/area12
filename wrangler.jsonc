@@ -1,0 +1,5 @@
+{
+  "name": "single-html",
+  "compatibility_date": "2025-12-27",
+  "main": "src/index.ts"
+}
